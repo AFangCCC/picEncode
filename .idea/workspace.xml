@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8ae19df3-d590-4a46-a147-406e85ed6b9a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="147170f1-2341-4f51-b49a-8052fcf4078c" />
+  <component name="ProjectId" id="1kgtTkfHFD8xhg4MxB6wEsSfT2O" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager" selected="Python.final">
+    <configuration name="encoder_lib" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="picEncode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/encoder_lib.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="final (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="picEncode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/twoexe" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/twoexe/final.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="final" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="picEncode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/final.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="picEncode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="picEncode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.final" />
+        <item itemvalue="Python.final (1)" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.encoder_lib" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ae19df3-d590-4a46-a147-406e85ed6b9a" name="Default Changelist" comment="" />
+      <created>1606134073864</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606134073864</updated>
+      <workItem from="1606134075719" duration="3533000" />
+      <workItem from="1606179133184" duration="14996000" />
+      <workItem from="1606202360795" duration="3848000" />
+      <workItem from="1606216561739" duration="3770000" />
+      <workItem from="1606274777092" duration="1229000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="138" key="FileChooserDialogImpl" timestamp="1606275542505">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="138" key="FileChooserDialogImpl/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1606275542505" />
+    <state x="552" y="281" key="Github.ShareDialog" timestamp="1606275922943">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="552" y="281" key="Github.ShareDialog/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1606275922943" />
+    <state x="493" y="88" key="Github.UntrackedFilesDialog" timestamp="1606275970448">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="493" y="88" key="Github.UntrackedFilesDialog/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1606275970448" />
+    <state width="1323" height="192" key="GridCell.Tab.0.bottom" timestamp="1606222109308">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1606207485561" />
+    <state width="1323" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1606222109308" />
+    <state width="1323" height="192" key="GridCell.Tab.0.center" timestamp="1606222109307">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.center/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1606207485561" />
+    <state width="1323" height="192" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1606222109307" />
+    <state width="1323" height="192" key="GridCell.Tab.0.left" timestamp="1606222109307">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.left/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1606207485560" />
+    <state width="1323" height="192" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1606222109307" />
+    <state width="1323" height="192" key="GridCell.Tab.0.right" timestamp="1606222109307">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.right/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1606207485561" />
+    <state width="1323" height="192" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1606222109307" />
+    <state width="1323" height="238" key="GridCell.Tab.1.bottom" timestamp="1606201202033">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="238" key="GridCell.Tab.1.bottom/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1606201202033" />
+    <state width="1323" height="238" key="GridCell.Tab.1.center" timestamp="1606201202032">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="238" key="GridCell.Tab.1.center/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1606201202032" />
+    <state width="1323" height="238" key="GridCell.Tab.1.left" timestamp="1606201202032">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="238" key="GridCell.Tab.1.left/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1606201202032" />
+    <state width="1323" height="238" key="GridCell.Tab.1.right" timestamp="1606201202032">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="238" key="GridCell.Tab.1.right/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1606201202032" />
+    <state x="184" y="28" key="SettingsEditor" timestamp="1606275552300">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="184" y="28" key="SettingsEditor/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1606275552300" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/picEncode$final.coverage" NAME="final Coverage Results" MODIFIED="1606221593246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/picEncode$main.coverage" NAME="main Coverage Results" MODIFIED="1606201187025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/picEncode$final__1_.coverage" NAME="final (1) Coverage Results" MODIFIED="1606203659807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twoexe" />
+    <SUITE FILE_PATH="coverage/picEncode$encoder_lib.coverage" NAME="encoder_lib Coverage Results" MODIFIED="1606196617567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/picEncode$test.coverage" NAME="test Coverage Results" MODIFIED="1606189158235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
